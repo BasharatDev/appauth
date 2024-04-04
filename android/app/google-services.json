@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416713829492",
+    "project_id": "location-a8c75",
+    "storage_bucket": "location-a8c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416713829492:android:c4dc3cc4943d7b523a7521",
+        "android_client_info": {
+          "package_name": "com.appauthmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWAwHSFLbSIxWP-KByAFvveFkeQsIUstQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
